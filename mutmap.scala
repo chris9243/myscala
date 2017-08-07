@@ -12,4 +12,4 @@ println(treasureMap(2))
 
 val mymap = Map(1->"one",2->"two",3->"three",4->"four")
 
-mymap(3)
+println(mymap(3))
